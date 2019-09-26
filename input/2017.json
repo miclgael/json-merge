@@ -1,0 +1,17 @@
+{
+    "year": "2017",
+    "achievement": [
+        {
+            "title": "Best Digital Agency 2017",
+            "description": "NEWi Award went to Out of the Square Media for my work on rich media displays",
+            "icon": "icon-award",
+            "date": "2017-09-18T06:25:11+11:00"
+        },
+        {
+            "title": "OOTS Media website",
+            "description": "Launched the new OOTS website.",
+            "icon": "icon-laptop",
+            "date": "2017-09-28T06:25:11+11:00"
+        }
+    ]
+}

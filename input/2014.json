@@ -1,0 +1,17 @@
+{
+    "year": "2014",
+    "achievement": [
+        {
+            "title": "Music Release",
+            "description": "Launched [.1 EP](https://regresser.bandcamp.com/album/1) by *régresser*",
+            "icon": "icon-music",
+            "date": "2014-01-01T23:25:35+11:00"
+        },
+        {
+            "title": "Music Release",
+            "description": "Launched [.1b single](https://regresser.bandcamp.com/album/1b) by *régresser*",
+            "icon": "icon-music",
+            "date": "2014-06-07T23:25:35+11:00"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "year": "2015",
+    "achievement": [
+        {
+            "title": "Music Release",
+            "description": "Launched the self-produced [Four](https://iamtheagent.bandcamp.com/album/four) by *I Am The Agent*",
+            "icon": "icon-music",
+            "date": "2015-12-31T23:25:35+11:00"
+        },
+        {
+            "title": "Music Release",
+            "description": "Launched [.2 EP](https://regresser.bandcamp.com/album/2) by *régresser*",
+            "icon": "icon-music",
+            "date": "2015-01-01T23:25:35+11:00"
+        }
+    ]
+}

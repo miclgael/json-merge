@@ -1,0 +1,35 @@
+{
+    "year": "2018",
+    "achievement": [
+        {
+            "title": "NGV Website Redesign",
+            "description" :"Launched just in time for the NGV Gala and the opening of the _Escher x Nendo_ exhibition.",
+            "icon" : "icon-laptop",
+            "date" : "2018-12-01T20:30:00+11:00"
+        },
+        {
+            "title": "Best Website 2018",
+            "description": "NEWi Award went to Out of the Square Media for my work on the [OOTS website](https://www.outofthesquare.com).",
+            "icon": "icon-award",
+            "date": "2018-09-27T18:25:11+11:00"
+        },
+        {
+            "title": "Baldessin / Whiteley",
+            "description": "I worked on this landing page for the [Baldessin / Whiteley](https://www.ngv.vic.gov.au/exhibition/baldessin-whiteley/) exhibition at NGV Australia.",
+            "icon": "icon-laptop",
+            "date": "2018-08-31T23:25:35+11:00"
+        },
+        {
+            "title": "Revolver Returns",
+            "description": "First solo performance as *Whalebones* at Revolver Upstairs, Windsor.",
+            "icon": "icon-music",
+            "date": "2018-06-26T18:25:11+11:00"
+        },
+        {
+            "title": "Started at NGV",
+            "description": "I joined National Gallery of Victoria as in-house web designer / developer.",
+            "icon": "icon-laptop",
+            "date": "2018-06-26T18:25:11+11:00"
+        }
+    ]
+}
